@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="trainer-js_main" target="1.9" />
+      <module name="trainer-js_test" target="1.9" />
+      <module name="trainer-jvm_main" target="1.9" />
+      <module name="trainer-jvm_test" target="1.9" />
+      <module name="trainer_main" target="1.9" />
+      <module name="trainer_test" target="1.9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+rootProject.name = 'trainer'
+
+include 'trainer-jvm', 'trainer-js'
